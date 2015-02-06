@@ -1,0 +1,125 @@
+
+
+#tool a:focus {
+	color: #75A3FF;  Sets the text hover color on navbar
+	font-size:175%;
+	font-weight: bold;
+}
+
+
+
+#tool a:hover {
+    text-decoration: none;
+    background-color: #4C5870; Change rollover cell color here
+  }
+
+
+#logo {
+	width: 100px;
+	height: 50px;
+	float: left;
+}
+
+#site-top-logo {
+	display: block;
+	float: left;
+	margin: 0 0 0 0.5em;  logo font
+}	
+
+#tool
+    {
+		/* padding-top: 10px;
+		padding-bottom: 20px; */
+		font-size:20px;
+		background-color:#000000;
+		color: #3399FF;
+		font-size:30px;
+		font-family: ‘Lucida Console’, Monaco, monospace;
+		font-weight: bold;
+    }
+
+label.radio { 
+  padding-left: 18px;
+  padding-right: 0px;
+  margin-left: 3px;
+  display: inline-block; 
+}
+
+.radio input[type="radio"] {
+  float: none; 
+}
+
+label.checkbox  { 
+  display: inline-block; 
+}
+
+.checkbox input[type="checkbox"] { 
+  float: none; 
+}
+
+select { 
+  max-width: 200px;
+}
+
+/* cant figure out how to change height of all selectedInput multiple =TRUE
+select multiple { 
+  max-width: 200px;
+  height: 200px;
+} */
+
+textarea { 
+  width: 650px; 
+}
+
+.numeric input[type="number"] {
+  max-width: 185px; 
+  height: 30px;
+}
+
+.jslider { 
+  max-width: 200px; 
+}
+
+.well { 
+  padding: 12px; 
+  margin-bottom: 5px; 
+  max-width: 280px; 
+  font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+.span4 { 
+  max-width: 280px; 
+}
+
+.popover { 
+  width: 600px; 
+  position: relative; top: -75px !important; 
+  left: 320px !important; 
+}
+
+.modal { 
+  width: 1000px;
+  width: 800px; 
+  left: 600px; 
+}
+
+.modal-body {
+  height: 100%;
+  max-height:500px;
+}
+
+div.busy {
+  position:absolute;
+  top: 40%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -50px;
+  display:none;
+  background: rgba(255, 255, 255, 1);  transparent;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  border-radius: 5px;
+}
