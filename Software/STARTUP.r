@@ -17,11 +17,11 @@
 install.packages("shiny")
 #otherwise just run the following:
 library(shiny)
-shiny::runApp('~/../Desktop/DeviumWeb-master/DeviumWeb-master')
+shiny::runApp('~/../Desktop/DataAnalysisWorkshop-master/DataAnalysisWorkshop-master/Software/DeviumWeb_v.0.4')
 
 #MetaMapR (https://github.com/dgrapov/MetaMapR)
 # if shiny is not installed run:
 install.packages("shiny")
 #otherwise just run the following:
 library(shiny)
-shiny::runApp('~/../Desktop/MetaMapR-master/MetaMapR-master')
+shiny::runApp('~/../Desktop/DataAnalysisWorkshop-master/DataAnalysisWorkshop-master/Software/MetaMapR_v1.4.0')
