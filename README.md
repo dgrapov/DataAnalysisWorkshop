@@ -4,9 +4,7 @@ output:
     keep_md: yes
 ---
 
-
 ![](assets/logo.png)
-
 
 ## Instructions
 
