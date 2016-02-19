@@ -3,14 +3,14 @@ output:
   html_document: 
     keep_md: yes
 ---
-# 
+
 
 ![](assets/logo.png)
 
 
 ## Instructions
 
-### 1. Download the project and unzip to the desktop. 
+### 1. Download the [material](https://github.com/dgrapov/DataAnalysisWorkshop/tree/master) and unzip to the desktop. 
 ### 2. Navigate to Goals/powerpoints/0-Introduction.ppt and follow along with the tutorial. 
 
 ### The workshop consists of 10 induvidual hands on lessons. Lessons 1 through 8 use [DeviumWeb](http://dgrapov.github.io/DeviumWeb/) and lessons 9 and 10, [MetaMapR](http://dgrapov.github.io/MetaMapR/). 
