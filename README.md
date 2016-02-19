@@ -4,7 +4,7 @@ output:
     keep_md: yes
 ---
 
-![](assets/logo.png)
+![](https://raw.githubusercontent.com/dgrapov/DataAnalysisWorkshop/master/assets/logo.png)
 
 ## Instructions
 
