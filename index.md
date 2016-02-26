@@ -1,0 +1,19 @@
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+<center>![](assets/logo.png)</center>
+
+## Instructions
+
+### 1. Download the [material](https://github.com/dgrapov/DataAnalysisWorkshop/tree/master) and unzip to the desktop. 
+### 2. Navigate to Goals/powerpoints/0-Introduction.ppt and follow along with the tutorial. 
+
+### The workshop consists of 10 induvidual hands on lessons. Lessons 1 through 8 use [DeviumWeb](http://dgrapov.github.io/DeviumWeb/) and lessons 9 and 10, [MetaMapR](http://dgrapov.github.io/MetaMapR/). 
+
+### Follow along with all the tutorials at ![](assets/cds_logo_small.png) [createdatasol.com](http://createdatasol.com/).
+
+### Similiar to:
+<iframe src="https://imdevsoftware.wordpress.com/2014/02/17/tutorials-statistical-and-multivariate-analysis-for-metabolomics/" style="width: 100%; height: 100vh; frameBorder=&quot;0&quot;;"></iframe> 
